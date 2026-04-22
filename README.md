@@ -16,4 +16,9 @@ This repository contains a polished landing page concept for an AI-powered image
 ## License
 
 This project is provided as-is. Update the license section as needed for your use case.
+
+
+
+<div align="center">
 Made with ❤️ by [ANISH](https://github.com/anishkumar0504)
+</div>
