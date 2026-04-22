@@ -1,4 +1,5 @@
 # Pixlift Landing Page
+pixlift.netlify.app
 
 A modern landing page project for **Pixlift | Local AI Image Enhancement** built with **Vite**, **React**, **TypeScript**, and **Tailwind CSS**.
 
